@@ -6,10 +6,10 @@ of the process, information about existing files in your YT playlist is saved in
     <li>https://www.youtube.com/watch?v=th5_9woFJmk - for YouTube credentials</li>
     <li>https://www.youtube.com/watch?v=-FsFT6OwE1A&t=1948s - for Spotify credentials</li>
 </ul>
+<h6> The process of setting the credentials is very tricky for people who have never done that, but if you go through this videos once everything will be much clear to understand.</h6>
 <p>If you have done that, be sure to install requirements.</p>
 <p>To do list:</p>
 <ol>
     <li>Changes in the .csv file when you delete music from the YouTube playlist. Now the program doesn't check if the music is still in the YouTube playlist (it does it for Spotify playlist because the process is much quicker).</li>
     <li>If you delete music from the YouTube playlist program should delete this music from the Spotify playlist. This thing is related to the previous thing to do.</li>
 </ol>
-
